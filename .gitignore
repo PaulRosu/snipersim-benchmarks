@@ -3,8 +3,8 @@
 !*/
 
 # Currently tracked files
-!Makefile
-!README.md
+!/Makefile
+!/README.md
 !cpu2006/CPU2006/400.perlbench/src/Makefile.deps
 !cpu2006/CPU2006/400.perlbench/src/Makefile.spec
 !cpu2006/CPU2006/401.bzip2/src/Makefile.deps
